@@ -19,4 +19,7 @@ public class QueryVo implements Serializable {
                 "users=" + users +
                 '}';
     }
+
+    public QueryVo() {
+    }
 }
